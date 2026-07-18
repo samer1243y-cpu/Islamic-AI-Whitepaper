@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.env.*
+venv/
+venv.bak/
+*.egg-info/
+*.sqlite3
+*.log
+.DS_Store
+Thumbs.db
+
+# Build and artifact folders
+*.zip
+*.npy
+*.index
+indexes/
+logs/
+processed/
+
+# IDE files
+.vscode/
+.idea/
