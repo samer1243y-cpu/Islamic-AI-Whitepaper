@@ -1,0 +1,664 @@
+You are a Senior Product Strategist, Startup Consultant, UX Researcher, AI Solutions Architect, Islamic Knowledge Systems Expert, Technical Writer, and Professional Document Designer.
+
+Your task is to create a world-class professional document for an AI startup.
+
+The output should NOT be a presentation.
+
+It should be a professionally designed PDF/Whitepaper/Business Proposal between 50 and 80 pages.
+
+The writing quality should be equivalent to documents produced by McKinsey, Deloitte, BCG, Google, Microsoft, OpenAI, or Y Combinator startups.
+
+Use modern layouts with icons, diagrams, architecture drawings, tables, timelines, infographics, and clean Arabic typography.
+
+Language:
+Arabic (Professional Modern Standard Arabic)
+
+=========================================
+PROJECT TITLE
+=========================================
+
+منصة ذكاء اصطناعي شرعية تعتمد على Retrieval-Augmented Generation (RAG)
+
+=========================================
+PROJECT IDEA
+=========================================
+
+The platform helps Muslims access trustworthy Islamic information through Artificial Intelligence.
+
+Instead of allowing the AI model to answer from its own memory, the platform retrieves information only from authenticated Islamic references.
+
+Every answer must include:
+
+• Quran evidence
+• Hadith evidence
+• Tafsir references
+• Official Fatwas
+• Source citation
+
+The AI must NEVER generate Islamic rulings from its own knowledge.
+
+It must answer only using retrieved authenticated knowledge.
+
+=========================================
+TARGET USERS
+=========================================
+
+Individuals
+
+Students
+
+Researchers
+
+Universities
+
+Mosques
+
+Imams
+
+Preachers
+
+Government entities
+
+Legal departments
+
+Law firms
+
+Islamic banks
+
+Insurance companies
+
+Corporate compliance teams
+
+Educational institutions
+
+Public organizations
+
+Developers through APIs
+
+=========================================
+THE DOCUMENT SHOULD CONTAIN
+=========================================
+
+Create all sections professionally.
+
+Do not skip any section.
+
+------------------------------------------
+1 Cover Page
+------------------------------------------
+
+Luxury cover
+
+Minimal design
+
+Professional colors
+
+AI + Islamic Identity
+
+Subtitle
+
+Prepared by
+
+Version
+
+Date
+
+------------------------------------------
+2 Executive Summary
+------------------------------------------
+
+Professional startup summary.
+
+Mission
+
+Vision
+
+Objectives
+
+Future vision
+
+------------------------------------------
+3 The Problem
+------------------------------------------
+
+Explain in depth:
+
+Current situation
+
+Internet misinformation
+
+Fake fatwas
+
+Difficulty verifying information
+
+Scattered resources
+
+Time wasted
+
+Loss of trust
+
+Use charts and visual explanations.
+
+------------------------------------------
+4 Why This Problem Matters
+------------------------------------------
+
+Economic impact
+
+Educational impact
+
+Religious impact
+
+Social impact
+
+Government impact
+
+Corporate impact
+
+------------------------------------------
+5 User Research
+------------------------------------------
+
+Create realistic Personas
+
+User Journey
+
+Pain Points
+
+Needs
+
+Expectations
+
+Behavior
+
+Goals
+
+------------------------------------------
+6 Solution Overview
+------------------------------------------
+
+Explain the platform completely.
+
+How users interact.
+
+How answers are generated.
+
+Explain user experience.
+
+------------------------------------------
+7 Technical Architecture
+------------------------------------------
+
+Professional system architecture.
+
+Include diagrams.
+
+Flow:
+
+User
+
+↓
+
+Frontend
+
+↓
+
+API
+
+↓
+
+Query Analysis
+
+↓
+
+Embedding
+
+↓
+
+Vector Database
+
+↓
+
+Retriever
+
+↓
+
+BM25
+
+↓
+
+LLM
+
+↓
+
+Citation Generator
+
+↓
+
+Response Validation
+
+↓
+
+Answer
+
+Explain every component.
+
+------------------------------------------
+8 Artificial Intelligence
+------------------------------------------
+
+Explain:
+
+LLM
+
+Generative AI
+
+Prompt Engineering
+
+Semantic Search
+
+Embeddings
+
+Vector Search
+
+Context Window
+
+Hallucination
+
+Grounding
+
+Explain why RAG is mandatory.
+
+------------------------------------------
+9 Data Sources
+------------------------------------------
+
+Explain trusted Islamic sources.
+
+Examples:
+
+Quran
+
+Sahih Hadith
+
+Tafsir Ibn Kathir
+
+Official Fatwas
+
+Ibn Baz
+
+Ibn Uthaymeen
+
+Scholarly references
+
+Explain source verification.
+
+------------------------------------------
+10 AI Models
+------------------------------------------
+
+Explain why these technologies were selected.
+
+Embedding
+
+BGE-M3
+
+Vector Database
+
+FAISS
+
+Future
+
+Pinecone
+
+Milvus
+
+Qdrant
+
+LLM
+
+Groq API
+
+Llama 3.3 70B
+
+Future GPT APIs
+
+Compare alternatives.
+
+Explain technical decisions.
+
+------------------------------------------
+11 Security
+------------------------------------------
+
+Data Privacy
+
+Authentication
+
+Logging
+
+Monitoring
+
+Source Integrity
+
+AI Safety
+
+Prompt Injection Protection
+
+------------------------------------------
+12 Features
+------------------------------------------
+
+Current MVP
+
+Future Features
+
+Voice
+
+Images
+
+OCR
+
+Documents
+
+API
+
+Browser Extension
+
+Mobile App
+
+Offline Mode
+
+Enterprise Dashboard
+
+------------------------------------------
+13 Individual Benefits
+------------------------------------------
+
+Explain every benefit.
+
+Save time
+
+Reliable knowledge
+
+Learning
+
+Daily life
+
+Family
+
+Students
+
+Researchers
+
+Travel
+
+Inheritance
+
+Business
+
+Marriage
+
+Worship
+
+Finance
+
+------------------------------------------
+14 Government Benefits
+------------------------------------------
+
+Explain:
+
+Education
+
+Justice
+
+Awareness
+
+Digital Transformation
+
+Knowledge Management
+
+Vision 2030 Alignment
+
+------------------------------------------
+15 Corporate Benefits
+------------------------------------------
+
+Legal departments
+
+Contract review support from a Sharia perspective
+
+Internal knowledge assistant
+
+Compliance support
+
+HR
+
+Training
+
+Knowledge search
+
+Decision support
+
+Make clear that legal and Sharia decisions remain the responsibility of qualified professionals.
+
+------------------------------------------
+16 Universities
+------------------------------------------
+
+Research
+
+Teaching
+
+Student Support
+
+Knowledge Assistant
+
+Arabic AI
+
+------------------------------------------
+17 Business Model
+------------------------------------------
+
+Freemium
+
+Subscriptions
+
+Enterprise
+
+API
+
+Government Licensing
+
+Educational Licensing
+
+Premium Features
+
+------------------------------------------
+18 Competitive Analysis
+------------------------------------------
+
+Compare with:
+
+Google
+
+ChatGPT
+
+Traditional Fatwa Websites
+
+IslamQA
+
+Official Fatwa Portals
+
+Highlight strengths and limitations fairly. Do not make unsupported superiority claims.
+
+Explain competitive advantages.
+
+------------------------------------------
+19 SWOT Analysis
+------------------------------------------
+
+Professional SWOT
+
+------------------------------------------
+20 Market Analysis
+------------------------------------------
+
+TAM
+
+SAM
+
+SOM
+
+Adoption
+
+Growth
+
+Present assumptions clearly if estimates are used.
+
+------------------------------------------
+21 Financial Model
+------------------------------------------
+
+Revenue Streams
+
+Costs
+
+Growth Strategy
+
+Pricing
+
+Enterprise Pricing
+
+API Pricing
+
+------------------------------------------
+22 Roadmap
+------------------------------------------
+
+MVP
+
+Pilot
+
+Beta
+
+Launch
+
+Enterprise
+
+International Expansion
+
+------------------------------------------
+23 Risks
+------------------------------------------
+
+Technical
+
+Religious
+
+Legal
+
+Security
+
+Adoption
+
+Competition
+
+Mitigation Strategy
+
+------------------------------------------
+24 Future Vision
+------------------------------------------
+
+Multilingual
+
+Voice AI
+
+Government APIs
+
+Islamic Search Engine
+
+Islamic Assistant
+
+Open API
+
+Global Expansion
+
+------------------------------------------
+25 Appendix
+------------------------------------------
+
+Glossary
+
+Architecture
+
+References
+
+Technical Terms
+
+AI Terms
+
+Islamic Terms
+
+=========================================
+DESIGN REQUIREMENTS
+=========================================
+
+Luxury
+
+Modern
+
+Premium
+
+Professional
+
+Corporate
+
+Minimal
+
+Use icons
+
+Tables
+
+Charts
+
+Infographics
+
+Architecture diagrams
+
+Timelines
+
+Process diagrams
+
+Beautiful typography
+
+Large margins
+
+Professional color palette
+
+White + Green + Gold + Dark Gray
+
+No childish design.
+
+=========================================
+WRITING STYLE
+=========================================
+
+Professional.
+
+Formal.
+
+Persuasive.
+
+Investor-grade.
+
+Government-grade.
+
+Never write vague text.
+
+Explain every concept deeply.
+
+Use diagrams whenever appropriate.
+
+The final output should feel like a document prepared by an international consulting company for a startup seeking investment.
