@@ -1,0 +1,35 @@
+# Project Information
+
+Project Name:
+منصة الذكاء الاصطناعي الشرعية
+
+Type:
+AI + RAG + Islamic Knowledge Platform
+
+Current Status:
+MVP Stage
+
+Tech Stack:
+- Python
+- FastAPI
+- FAISS
+- BM25
+- BGE-M3
+- Groq API
+- Llama 3.3 70B
+
+Data Sources:
+- Quran
+- Tafsir Ibn Kathir
+- Sahih Hadith
+- Ibn Baz Fatwas
+- Ibn Uthaymeen Fatwas
+
+Problem:
+Difficulty verifying Islamic information online.
+
+Vision:
+Become the most trusted AI-powered Islamic knowledge platform globally.
+
+Target Markets:
+Saudi Arabia → GCC → Global Islamic Market
